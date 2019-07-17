@@ -38,7 +38,7 @@ $init_latitude = 52.23;
 $init_longitude = 21.01;
 
 // you may set your google maps api key
-$gkey = "";
+$gkey = "AIzaSyAiG1tS0U4pR2IrNRgTf3uIQnsS1FLex40";
 
 // Database config
 $dbdsn = "pgsql:host=ec2-50-19-222-129.compute-1.amazonaws.com;port=5432;dbname=d3econt1n31qaa"; // DSN eg. "mysql:host=localhost;port=3307;dbname=testdb;charset=utf8"
